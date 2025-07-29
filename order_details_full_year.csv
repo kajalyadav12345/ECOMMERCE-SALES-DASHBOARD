@@ -1,0 +1,51 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,Payment Mode
+O-1000,9682,1055,10,Furniture,Tables,Credit Card
+O-1001,9205,-480,4,Office,Paper,UPI
+O-1002,5247,1477,9,Office,Stationery,Credit Card
+O-1003,8331,158,8,Office,Printer,Credit Card
+O-1004,2988,-362,3,Furniture,Sofa,Net Banking
+O-1005,5844,1133,1,Furniture,Sofa,Cash
+O-1006,4571,1231,9,Furniture,Tables,Net Banking
+O-1007,2270,-125,4,Furniture,Tables,Net Banking
+O-1008,1511,-182,1,Office,Stationery,UPI
+O-1009,1345,-258,8,Office,Printer,Credit Card
+O-1010,5979,-117,3,Electronics,Accessories,Net Banking
+O-1011,2989,38,9,Furniture,Sofa,Net Banking
+O-1012,2686,1381,3,Office,Paper,Cash
+O-1013,8299,953,6,Electronics,Accessories,UPI
+O-1014,6745,-383,8,Furniture,Sofa,Credit Card
+O-1015,2275,582,4,Office,Paper,UPI
+O-1016,2568,1133,8,Furniture,Tables,UPI
+O-1017,6282,1213,3,Office,Printer,Cash
+O-1018,6093,1100,10,Office,Stationery,Cash
+O-1019,7172,892,10,Electronics,Laptop,UPI
+O-1020,2573,243,3,Electronics,Mobile,Credit Card
+O-1021,1544,434,3,Furniture,Tables,UPI
+O-1022,2081,1413,9,Furniture,Sofa,Cash
+O-1023,8238,-276,10,Office,Paper,Cash
+O-1024,4058,1451,6,Electronics,Laptop,UPI
+O-1025,3070,-487,3,Office,Printer,Credit Card
+O-1026,5538,1306,3,Electronics,Accessories,Cash
+O-1027,6638,245,2,Furniture,Tables,Net Banking
+O-1028,9395,698,4,Furniture,Sofa,Cash
+O-1029,7028,469,3,Furniture,Tables,Net Banking
+O-1030,6326,1322,5,Electronics,Mobile,UPI
+O-1031,6769,158,4,Electronics,Mobile,Credit Card
+O-1032,6070,36,3,Electronics,Laptop,Cash
+O-1033,9232,229,6,Electronics,Mobile,Cash
+O-1034,9388,1290,8,Furniture,Chairs,UPI
+O-1035,3867,1146,2,Office,Printer,Credit Card
+O-1036,9304,-476,10,Office,Printer,Credit Card
+O-1037,4533,-62,4,Office,Printer,UPI
+O-1038,4006,987,7,Electronics,Accessories,Net Banking
+O-1039,8568,912,6,Furniture,Tables,Credit Card
+O-1040,4396,219,9,Electronics,Mobile,UPI
+O-1041,5017,1180,10,Office,Paper,Credit Card
+O-1042,4182,201,3,Office,Stationery,Net Banking
+O-1043,2576,-447,1,Electronics,Mobile,Credit Card
+O-1044,7192,1158,2,Office,Stationery,Credit Card
+O-1045,4084,-465,3,Furniture,Chairs,Cash
+O-1046,1945,597,1,Electronics,Accessories,Credit Card
+O-1047,4347,1229,1,Electronics,Accessories,Net Banking
+O-1048,2867,-152,7,Furniture,Chairs,Credit Card
+O-1049,5858,-471,2,Furniture,Tables,UPI
